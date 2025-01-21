@@ -69,7 +69,7 @@ display: none;
 /*home section styling*/
 .home{
     display: flex;
-    background: url(img/Progetto\ senza\ titolo.png) no-repeat center;
+    background: url(Progetto\ senza\ titolo.png) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
